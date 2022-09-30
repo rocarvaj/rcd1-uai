@@ -1,0 +1,145 @@
+region,tipo,poblacion
+Arica Y Parinacota,total,226068
+Arica Y Parinacota,hombres,112581
+Arica Y Parinacota,mujeres,113487
+Arica Y Parinacota,urbano,207231
+Arica Y Parinacota,hombre_urbano,101404
+Arica Y Parinacota,mujer_urbano,105827
+Arica Y Parinacota,rural,18837
+Arica Y Parinacota,hombre_rural,11177
+Arica Y Parinacota,mujer_rural,7660
+Tarapacá,total,330558
+Tarapacá,hombres,167793
+Tarapacá,mujeres,162765
+Tarapacá,urbano,310065
+Tarapacá,hombre_urbano,153371
+Tarapacá,mujer_urbano,156694
+Tarapacá,rural,20493
+Tarapacá,hombre_rural,14422
+Tarapacá,mujer_rural,6071
+Antofagasta,total,607534
+Antofagasta,hombres,315014
+Antofagasta,mujeres,292520
+Antofagasta,urbano,571748
+Antofagasta,hombre_urbano,286393
+Antofagasta,mujer_urbano,285355
+Antofagasta,rural,35786
+Antofagasta,hombre_rural,28621
+Antofagasta,mujer_rural,7165
+Atacama,total,286168
+Atacama,hombres,144420
+Atacama,mujeres,141748
+Atacama,urbano,260520
+Atacama,hombre_urbano,129840
+Atacama,mujer_urbano,130680
+Atacama,rural,25648
+Atacama,hombre_rural,14580
+Atacama,mujer_rural,11068
+Coquimbo,total,757586
+Coquimbo,hombres,368774
+Coquimbo,mujeres,388812
+Coquimbo,urbano,615116
+Coquimbo,hombre_urbano,294095
+Coquimbo,mujer_urbano,321021
+Coquimbo,rural,142470
+Coquimbo,hombre_rural,74679
+Coquimbo,mujer_rural,67791
+Valparaíso,total,1815902
+Valparaíso,hombres,880215
+Valparaíso,mujeres,935687
+Valparaíso,urbano,1652575
+Valparaíso,hombre_urbano,795240
+Valparaíso,mujer_urbano,857335
+Valparaíso,rural,163327
+Valparaíso,hombre_rural,84975
+Valparaíso,mujer_rural,78352
+Metropolitana De Santiago,total,7112808
+Metropolitana De Santiago,hombres,3462267
+Metropolitana De Santiago,mujeres,3650541
+Metropolitana De Santiago,urbano,6849310
+Metropolitana De Santiago,hombre_urbano,3325682
+Metropolitana De Santiago,mujer_urbano,3523628
+Metropolitana De Santiago,rural,263498
+Metropolitana De Santiago,hombre_rural,136585
+Metropolitana De Santiago,mujer_rural,126913
+Libertador General Bernardo O'higgins,total,914555
+Libertador General Bernardo O'higgins,hombres,453710
+Libertador General Bernardo O'higgins,mujeres,460845
+Libertador General Bernardo O'higgins,urbano,680363
+Libertador General Bernardo O'higgins,hombre_urbano,331910
+Libertador General Bernardo O'higgins,mujer_urbano,348453
+Libertador General Bernardo O'higgins,rural,234192
+Libertador General Bernardo O'higgins,hombre_rural,121800
+Libertador General Bernardo O'higgins,mujer_rural,112392
+Maule,total,1044950
+Maule,hombres,511624
+Maule,mujeres,533326
+Maule,urbano,765131
+Maule,hombre_urbano,366624
+Maule,mujer_urbano,398507
+Maule,rural,279819
+Maule,hombre_rural,145000
+Maule,mujer_rural,134819
+Ñuble,total,480609
+Ñuble,hombres,232587
+Ñuble,mujeres,248022
+Ñuble,urbano,333680
+Ñuble,hombre_urbano,157436
+Ñuble,mujer_urbano,176244
+Ñuble,rural,146929
+Ñuble,hombre_rural,75151
+Ñuble,mujer_rural,71778
+Biobío,total,1556805
+Biobío,hombres,750730
+Biobío,mujeres,806075
+Biobío,urbano,1379015
+Biobío,hombre_urbano,659069
+Biobío,mujer_urbano,719946
+Biobío,rural,177790
+Biobío,hombre_rural,91661
+Biobío,mujer_rural,86129
+La Araucanía,total,957224
+La Araucanía,hombres,465131
+La Araucanía,mujeres,492093
+La Araucanía,urbano,678544
+La Araucanía,hombre_urbano,321406
+La Araucanía,mujer_urbano,357138
+La Araucanía,rural,278680
+La Araucanía,hombre_rural,143725
+La Araucanía,mujer_rural,134955
+Los Ríos,total,384837
+Los Ríos,hombres,188847
+Los Ríos,mujeres,195990
+Los Ríos,urbano,275786
+Los Ríos,hombre_urbano,132123
+Los Ríos,mujer_urbano,143663
+Los Ríos,rural,109051
+Los Ríos,hombre_rural,56724
+Los Ríos,mujer_rural,52327
+Los Lagos,total,828708
+Los Lagos,hombres,409400
+Los Lagos,mujeres,419308
+Los Lagos,urbano,610033
+Los Lagos,hombre_urbano,295217
+Los Lagos,mujer_urbano,314816
+Los Lagos,rural,218675
+Los Lagos,hombre_rural,114183
+Los Lagos,mujer_rural,104492
+Aysén Del General Carlos Ibáñez Del Campo,total,103158
+Aysén Del General Carlos Ibáñez Del Campo,hombres,53647
+Aysén Del General Carlos Ibáñez Del Campo,mujeres,49511
+Aysén Del General Carlos Ibáñez Del Campo,urbano,82098
+Aysén Del General Carlos Ibáñez Del Campo,hombre_urbano,40923
+Aysén Del General Carlos Ibáñez Del Campo,mujer_urbano,41175
+Aysén Del General Carlos Ibáñez Del Campo,rural,21060
+Aysén Del General Carlos Ibáñez Del Campo,hombre_rural,12724
+Aysén Del General Carlos Ibáñez Del Campo,mujer_rural,8336
+Magallanes Y De La Antártica Chilena,total,166533
+Magallanes Y De La Antártica Chilena,hombres,85249
+Magallanes Y De La Antártica Chilena,mujeres,81284
+Magallanes Y De La Antártica Chilena,urbano,153048
+Magallanes Y De La Antártica Chilena,hombre_urbano,76115
+Magallanes Y De La Antártica Chilena,mujer_urbano,76933
+Magallanes Y De La Antártica Chilena,rural,13485
+Magallanes Y De La Antártica Chilena,hombre_rural,9134
+Magallanes Y De La Antártica Chilena,mujer_rural,4351
