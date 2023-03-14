@@ -1,4 +1,4 @@
-CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work Experience,Family Size
+customer_id,gender,age,annual_income,spending_score_1_100,profession,work_experience,family_size
 1,Male,19,15000,39,Healthcare,1,4
 2,Male,21,35000,81,Engineer,3,3
 3,Female,20,86000,6,Engineer,1,1
@@ -78,7 +78,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 77,Female,45,67000,53,Doctor,0,2
 78,Male,40,99000,48,Artist,4,3
 79,Female,23,97000,52,Engineer,2,2
-80,Female,49,98000,42,,1,1
+80,Female,49,98000,42,NA,1,1
 81,Male,57,52000,51,Healthcare,0,4
 82,Male,38,61000,55,Healthcare,6,3
 83,Male,67,120000,41,Artist,8,1
@@ -117,7 +117,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 116,Female,19,51000,50,Executive,8,4
 117,Female,63,9000,43,Lawyer,1,1
 118,Female,49,79000,59,Artist,0,2
-119,Female,51,84000,43,,2,7
+119,Female,51,84000,43,NA,2,7
 120,Female,50,87000,57,Artist,1,2
 121,Male,27,36000,56,Executive,0,3
 122,Female,38,50000,40,Executive,1,4
@@ -218,7 +218,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 217,Male,79,20000,40,Doctor,6,2
 218,Female,83,35000,99,Doctor,8,2
 219,Female,66,71000,34,Executive,9,2
-220,Female,59,76000,61,,9,1
+220,Female,59,76000,61,NA,9,1
 221,Female,39,84000,33,Artist,5,3
 222,Female,95,72000,51,Engineer,4,2
 223,Male,43,33000,55,Artist,4,3
@@ -236,7 +236,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 235,Female,4,84000,54,Artist,9,1
 236,Female,29,62000,34,Healthcare,0,4
 237,Male,91,9000,96,Healthcare,1,5
-238,Male,95,36000,35,,0,4
+238,Male,95,36000,35,NA,0,4
 239,Male,55,37000,74,Lawyer,1,4
 240,Female,14,50000,11,Artist,1,2
 241,Male,92,83000,16,Executive,1,5
@@ -436,10 +436,10 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 435,Male,59,169999,38,Engineer,5,5
 436,Female,7,106581,76,Doctor,1,7
 437,Female,24,78223,41,Lawyer,0,1
-438,Male,76,136259,14,,0,7
+438,Male,76,136259,14,NA,0,7
 439,Male,37,153399,93,Entertainment,1,6
 440,Female,6,162858,91,Artist,0,1
-441,Female,0,57373,29,,0,7
+441,Female,0,57373,29,NA,0,7
 442,Male,3,133602,47,Artist,1,1
 443,Female,95,66322,88,Artist,0,3
 444,Female,0,68761,16,Lawyer,1,4
@@ -497,7 +497,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 496,Female,85,179877,17,Healthcare,12,4
 497,Female,83,93351,65,Doctor,1,1
 498,Male,12,84547,96,Homemaker,3,3
-499,Male,95,121725,3,,12,3
+499,Male,95,121725,3,NA,12,3
 500,Male,41,65723,91,Artist,6,7
 501,Female,38,96794,96,Healthcare,6,3
 502,Male,68,72352,61,Healthcare,8,5
@@ -544,7 +544,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 543,Female,56,100271,87,Artist,1,5
 544,Female,6,170266,23,Artist,3,2
 545,Female,33,88763,1,Entertainment,1,1
-546,Female,89,107359,26,,10,6
+546,Female,89,107359,26,NA,10,6
 547,Male,99,164781,83,Engineer,0,2
 548,Female,25,156016,85,Artist,2,1
 549,Female,96,186882,40,Entertainment,1,7
@@ -600,7 +600,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 599,Male,22,64707,29,Entertainment,7,3
 600,Male,62,71795,87,Healthcare,8,1
 601,Male,41,76567,85,Doctor,16,1
-602,Male,61,126370,20,,11,4
+602,Male,61,126370,20,NA,11,4
 603,Female,71,154007,32,Artist,7,7
 604,Female,91,69720,78,Lawyer,17,6
 605,Female,94,85265,68,Executive,7,6
@@ -640,7 +640,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 639,Female,59,189672,8,Doctor,0,7
 640,Female,61,143180,58,Artist,0,5
 641,Female,59,174890,14,Marketing,3,4
-642,Male,66,121377,19,,7,7
+642,Male,66,121377,19,NA,7,7
 643,Male,26,154857,13,Healthcare,0,7
 644,Female,67,160945,51,Healthcare,0,5
 645,Female,85,119557,35,Artist,0,2
@@ -664,7 +664,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 663,Female,3,117638,95,Healthcare,2,7
 664,Female,91,159537,37,Doctor,4,1
 665,Male,26,79526,6,Marketing,9,7
-666,Male,28,101414,64,,8,1
+666,Male,28,101414,64,NA,8,1
 667,Female,92,109519,72,Entertainment,1,4
 668,Female,59,156880,70,Artist,0,7
 669,Male,15,157278,58,Artist,0,6
@@ -702,7 +702,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 701,Female,41,172882,27,Healthcare,8,7
 702,Female,62,70119,93,Artist,0,1
 703,Male,41,113998,26,Healthcare,7,7
-704,Male,22,114011,40,,5,7
+704,Male,22,114011,40,NA,5,7
 705,Male,5,57265,89,Entertainment,7,7
 706,Female,38,130597,2,Artist,6,1
 707,Female,88,121597,7,Engineer,0,5
@@ -800,7 +800,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 799,Male,75,91456,13,Artist,1,4
 800,Male,11,166247,84,Executive,1,2
 801,Female,61,140516,50,Artist,0,3
-802,Male,81,148208,36,,5,7
+802,Male,81,148208,36,NA,5,7
 803,Female,62,133822,78,Marketing,0,4
 804,Female,44,175424,32,Artist,4,5
 805,Female,67,121528,92,Healthcare,8,4
@@ -816,7 +816,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 815,Male,60,150019,37,Doctor,1,2
 816,Female,81,53452,73,Entertainment,1,6
 817,Male,85,150765,42,Homemaker,8,2
-818,Female,91,154456,71,,0,7
+818,Female,91,154456,71,NA,0,7
 819,Female,65,56647,12,Doctor,6,4
 820,Female,19,117477,48,Healthcare,6,7
 821,Female,78,79677,9,Artist,10,7
@@ -849,7 +849,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 848,Female,82,109188,38,Lawyer,5,7
 849,Female,66,132951,26,Healthcare,4,1
 850,Female,75,164598,32,Healthcare,8,1
-851,Male,69,186655,32,,7,2
+851,Male,69,186655,32,NA,7,2
 852,Female,62,111859,86,Healthcare,6,1
 853,Female,0,121926,41,Lawyer,7,1
 854,Female,11,143047,42,Executive,1,3
@@ -902,7 +902,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 901,Male,1,75518,17,Lawyer,7,3
 902,Male,53,160980,62,Doctor,4,2
 903,Female,75,102904,28,Artist,7,6
-904,Female,15,174501,37,,9,7
+904,Female,15,174501,37,NA,9,7
 905,Female,47,157661,57,Healthcare,6,6
 906,Female,66,118385,8,Healthcare,10,3
 907,Female,17,116463,100,Artist,8,4
@@ -926,7 +926,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 925,Female,70,62901,60,Artist,8,5
 926,Male,14,149618,78,Healthcare,4,6
 927,Female,95,72068,97,Healthcare,0,6
-928,Male,25,81367,87,,0,3
+928,Male,25,81367,87,NA,0,3
 929,Female,95,118575,10,Entertainment,1,3
 930,Female,12,82382,97,Executive,1,3
 931,Male,82,114776,55,Entertainment,10,3
@@ -1008,7 +1008,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1007,Female,61,101007,60,Lawyer,0,6
 1008,Male,83,87529,49,Artist,9,7
 1009,Male,8,151648,98,Healthcare,8,6
-1010,Male,69,61637,67,,0,5
+1010,Male,69,61637,67,NA,0,5
 1011,Male,14,164659,59,Entertainment,1,6
 1012,Female,80,125623,62,Executive,0,4
 1013,Female,85,104054,22,Artist,8,4
@@ -1066,7 +1066,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1065,Male,23,122712,21,Marketing,1,1
 1066,Female,80,55792,30,Artist,1,6
 1067,Male,45,73892,45,Doctor,1,4
-1068,Female,30,78821,46,,1,4
+1068,Female,30,78821,46,NA,1,4
 1069,Female,84,152475,12,Artist,0,7
 1070,Male,45,152226,87,Artist,4,4
 1071,Male,85,117679,18,Entertainment,1,3
@@ -1087,11 +1087,11 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1086,Male,87,153230,15,Healthcare,8,1
 1087,Female,93,63261,13,Engineer,1,7
 1088,Male,44,90167,84,Engineer,0,3
-1089,Female,10,162076,78,,0,3
+1089,Female,10,162076,78,NA,0,3
 1090,Female,84,53622,27,Artist,0,3
 1091,Female,7,172913,94,Executive,3,4
 1092,Female,41,94316,86,Artist,0,6
-1093,Male,87,141383,3,,7,5
+1093,Male,87,141383,3,NA,7,5
 1094,Female,33,67874,55,Artist,0,2
 1095,Female,34,176554,62,Healthcare,1,2
 1096,Female,53,135341,56,Healthcare,10,2
@@ -1187,7 +1187,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1186,Male,65,54431,93,Healthcare,1,7
 1187,Female,88,168437,81,Artist,2,2
 1188,Female,55,71322,54,Entertainment,1,6
-1189,Female,99,122548,14,,2,5
+1189,Female,99,122548,14,NA,2,5
 1190,Female,20,141428,32,Entertainment,1,5
 1191,Male,97,142214,32,Artist,7,4
 1192,Female,93,62590,43,Artist,9,6
@@ -1222,7 +1222,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1221,Male,68,170957,6,Lawyer,1,3
 1222,Male,70,81197,76,Artist,0,4
 1223,Female,21,104888,8,Healthcare,0,4
-1224,Male,74,184838,18,,8,5
+1224,Male,74,184838,18,NA,8,5
 1225,Female,62,139588,66,Executive,0,2
 1226,Male,22,126543,45,Homemaker,0,3
 1227,Female,87,177260,45,Entertainment,14,2
@@ -1315,7 +1315,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1314,Male,4,96693,28,Entertainment,0,4
 1315,Female,83,129507,93,Healthcare,4,7
 1316,Female,94,114510,39,Healthcare,0,4
-1317,Female,33,109396,17,,1,2
+1317,Female,33,109396,17,NA,1,2
 1318,Female,12,149031,96,Artist,10,5
 1319,Female,77,66256,13,Lawyer,1,2
 1320,Female,48,118285,69,Doctor,8,4
@@ -1333,7 +1333,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1332,Male,23,132183,76,Artist,10,3
 1333,Female,82,82060,46,Healthcare,7,1
 1334,Female,97,133614,58,Artist,7,4
-1335,Male,42,94844,64,,7,6
+1335,Male,42,94844,64,NA,7,6
 1336,Female,75,76474,5,Doctor,5,5
 1337,Female,14,94655,9,Healthcare,8,1
 1338,Male,3,60933,30,Doctor,8,1
@@ -1383,7 +1383,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1382,Female,62,89801,88,Artist,5,4
 1383,Male,73,173466,57,Entertainment,10,5
 1384,Female,34,55690,4,Marketing,4,6
-1385,Female,50,104467,72,,5,1
+1385,Female,50,104467,72,NA,5,1
 1386,Male,39,100419,19,Artist,5,4
 1387,Female,82,62951,47,Lawyer,8,2
 1388,Male,39,118554,1,Lawyer,4,6
@@ -1416,7 +1416,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1415,Male,93,121513,90,Engineer,0,6
 1416,Female,54,79925,30,Healthcare,0,3
 1417,Male,23,112089,74,Healthcare,7,7
-1418,Female,1,138656,27,,3,4
+1418,Female,1,138656,27,NA,3,4
 1419,Female,64,146794,90,Healthcare,8,3
 1420,Female,55,75033,30,Engineer,5,5
 1421,Female,85,149969,78,Executive,0,6
@@ -1482,7 +1482,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1481,Female,97,170133,42,Engineer,5,5
 1482,Female,25,165978,42,Artist,7,3
 1483,Female,17,149727,78,Artist,7,3
-1484,Female,19,147052,86,,9,4
+1484,Female,19,147052,86,NA,9,4
 1485,Female,59,113389,79,Doctor,4,6
 1486,Male,30,111690,73,Entertainment,10,4
 1487,Female,63,184830,60,Doctor,9,3
@@ -1505,7 +1505,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1504,Female,85,97822,38,Doctor,5,3
 1505,Female,86,117203,83,Healthcare,10,3
 1506,Female,63,88720,100,Artist,10,1
-1507,Female,9,173233,18,,5,1
+1507,Female,9,173233,18,NA,5,1
 1508,Female,76,139447,36,Artist,8,7
 1509,Male,19,179269,93,Entertainment,6,3
 1510,Female,84,136254,90,Engineer,5,6
@@ -1624,7 +1624,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1623,Female,40,184222,17,Healthcare,0,2
 1624,Male,81,71543,1,Entertainment,1,4
 1625,Female,18,174836,63,Healthcare,0,4
-1626,Female,78,130706,72,,3,6
+1626,Female,78,130706,72,NA,3,6
 1627,Male,8,74407,100,Doctor,0,6
 1628,Male,64,130055,46,Healthcare,2,1
 1629,Male,45,88707,81,Healthcare,0,5
@@ -1633,7 +1633,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1632,Male,53,57248,66,Lawyer,5,5
 1633,Female,66,99902,54,Engineer,10,2
 1634,Female,1,165711,50,Artist,1,2
-1635,Male,73,97455,55,,6,4
+1635,Male,73,97455,55,NA,6,4
 1636,Female,34,93866,43,Entertainment,9,2
 1637,Female,1,141307,17,Healthcare,1,3
 1638,Male,73,172011,9,Doctor,1,5
@@ -1787,7 +1787,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1786,Male,56,131911,42,Healthcare,7,7
 1787,Female,14,140107,63,Marketing,6,6
 1788,Female,4,170403,44,Artist,4,5
-1789,Female,58,51416,46,,7,5
+1789,Female,58,51416,46,NA,7,5
 1790,Female,6,52648,2,Artist,5,2
 1791,Male,17,125471,48,Engineer,7,1
 1792,Female,55,106153,62,Artist,10,1
@@ -1883,7 +1883,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1882,Male,97,156812,77,Healthcare,0,6
 1883,Male,68,51468,48,Artist,0,3
 1884,Female,11,114071,37,Healthcare,0,2
-1885,Female,63,155638,81,,1,4
+1885,Female,63,155638,81,NA,1,4
 1886,Male,68,129971,61,Artist,8,3
 1887,Female,69,104160,77,Engineer,4,4
 1888,Female,77,124995,66,Healthcare,0,1
@@ -1904,7 +1904,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1903,Male,88,138482,59,Marketing,8,4
 1904,Male,85,74081,87,Healthcare,4,3
 1905,Male,94,112426,54,Engineer,9,6
-1906,Female,52,164038,53,,5,4
+1906,Female,52,164038,53,NA,5,4
 1907,Female,68,53552,97,Marketing,7,6
 1908,Male,15,142147,78,Artist,8,4
 1909,Male,4,180324,41,Artist,9,2
@@ -1931,7 +1931,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 1930,Male,58,87602,25,Executive,5,3
 1931,Male,72,182317,46,Healthcare,8,6
 1932,Male,90,158280,92,Executive,6,7
-1933,Female,23,59905,79,,7,5
+1933,Female,23,59905,79,NA,7,5
 1934,Female,87,128153,42,Artist,7,6
 1935,Male,64,142612,58,Doctor,4,6
 1936,Female,15,180163,9,Doctor,10,7
